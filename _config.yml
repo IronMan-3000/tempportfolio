@@ -24,19 +24,19 @@ author:
   avatar           : "Rohith_new.jpeg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am a Software Developer with expertise in Frontend technologies"
+  location         : "California,USA"
+  employer         : "UC Riverside"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "krohithreddyk@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # url
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # url
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # url
   researchgate     : # URL
 
   # Repositories and software development
