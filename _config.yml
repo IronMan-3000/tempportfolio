@@ -12,8 +12,8 @@ title                    : "Rohith Reddy K"
 title_separator          : "-"
 name                     : &name "Rohith Reddy K" 
 description              : &description "personal description"
-url                      : https://IronMan-3000.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://IronMan-3000.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/tempportfolio" # the subpath of your site, e.g. "/blog"
 repository               : "IronMan-3000/tempportfolio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
